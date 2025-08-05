@@ -15,5 +15,5 @@
  - 自用解析式语言:[VertexUI Twinkle](https://forum.vertillusion.xyz/d/20-vertexui-twinkle)
  
  
- 关于正式发布版,请在[这里](https://lightframe.vertillusion.xyz/)下载OfficialRelease.
+ 关于正式发布版,请在[这里](https://lightframe.vertillusion.com/)下载OfficialRelease.
  您可以在这里[支持](https://afdian.net/@EnderMo)一下我啦~ 本程序坚持不强制收费的基本原则哦~
